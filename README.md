@@ -6,4 +6,5 @@ Our project aims to evaluate the best evolutionary charasteristics for dinosaurs
 
 
 ## References
-Dinosaur Dataset: [https://www.kaggle.com/datasets/kjanjua/jurassic-park-the-exhaustive-dinosaur-dataset]
+(Kaggle Dinosaur Dataset)[https://www.kaggle.com/datasets/kjanjua/jurassic-park-the-exhaustive-dinosaur-dataset]
+(National History Museum Dino Directory)[https://www.nhm.ac.uk/discover/dino-directory.html]
