@@ -1,5 +1,5 @@
 # Evolutionary Data Analysis of Dinosaur Characteristics
 ## Overview
-### Usage
+## Usage
 
-### References
+## References
